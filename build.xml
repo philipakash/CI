@@ -1,3 +1,5 @@
 <project>
-
+	<target name="test" >
+	<echo > Hii This is a type of build</echo>
+	</target>
 </project>
